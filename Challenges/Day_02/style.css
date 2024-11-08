@@ -1,5 +1,5 @@
 body {
-    background-color: #E67BAB;
+    background-color: #ff9100;
     
 }
 
@@ -14,7 +14,7 @@ body {
     width: 200px;
     height: 200px;
     border-radius: 50%;
-    box-shadow: 0 5px 0 white;
+    box-shadow: 0 5px 0 rgb(0, 0, 0);
     background: transparent;
     animation: animate 1s linear infinite;
 }
@@ -23,7 +23,7 @@ body {
     background-color: transparent;
     box-shadow: 0 0 5px rgba(224, 220, 220, 0.253);
     font-family: 'Ubuntu Mono', monospace;
-    color: white;
+    color: rgb(0, 0, 0);
     font-size: 1.5em;
     width: 200px;
     height: 200px;
